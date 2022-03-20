@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NetworkingAssignment</string>
+    <string name="name">University Name</string>
+    <string name="country">Country</string>
+</resources>
